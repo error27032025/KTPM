@@ -1,0 +1,6 @@
+*.log
+*.exe
+*.out
+*.o
+vendor/
+bin/
